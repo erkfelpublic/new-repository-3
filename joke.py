@@ -2,8 +2,8 @@ def tell_joke():
     """
     This function tells a classic programming joke.
     """
-    question = "Why do programmers prefer dark mode?"
-    answer = "Because light attracts bugs!"
+    question = "Why don't scientists trust atoms?"
+    answer = "Because they make up everything!"
 
     print(question)
     print(answer)
