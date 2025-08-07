@@ -16,6 +16,10 @@ jokes = [
     {
         "question": "Why did the developer go broke?",
         "answer": "Because he used up all his cache."
+    },
+    {
+        "question": "A SQL query walks into a bar, walks up to two tables and asks...",
+        "answer": "'Can I join you?'"
     }
 ]
 
