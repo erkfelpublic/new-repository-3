@@ -18,8 +18,8 @@ jokes = [
         "answer": "Because he used up all his cache."
     },
     {
-        "question": "What is the most used language in programming?",
-        "answer": "Profanity."
+        "question": "What is a programmer's favorite drink?",
+        "answer": "Vimto."
     }
 ]
 
