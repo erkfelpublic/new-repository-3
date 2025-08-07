@@ -16,6 +16,10 @@ jokes = [
     {
         "question": "Why did the developer go broke?",
         "answer": "Because he used up all his cache."
+    },
+    {
+        "question": "There are 10 types of people in the world",
+        "answer": "Those who understand binary, and those who don't."
     }
 ]
 
