@@ -56,6 +56,46 @@ jokes = [
     {
         "question": "What's the best thing about a boolean?",
         "answer": "Even if you're wrong, you're only off by a bit."
+    },
+    {
+        "question": "Why did the programmer quit his job?",
+        "answer": "Because he didn't get arrays."
+    },
+    {
+        "question": "What is a computer's favorite beat?",
+        "answer": "An algo-rhythm."
+    },
+    {
+        "question": "Why do programmers always mix up Christmas and Halloween?",
+        "answer": "Because Oct 31 == Dec 25."
+    },
+    {
+        "question": "What's a programmer's favorite karaoke song?",
+        "answer": "Hello, World!"
+    },
+    {
+        "question": "Why are Assembly programmers always soaking wet?",
+        "answer": "They work below C-level."
+    },
+    {
+        "question": "What do you call a group of 8 hobbits?",
+        "answer": "A hob-byte."
+    },
+    {
+        "question": "Why was the developer always calm?",
+        "answer": "He had inner peace."
+    },
+    {
+        "question": "Why did the functions stop calling each other?",
+        "answer": "They had constant arguments."
+    },
+    {
+        "question": "What's a bug's life motto?",
+        "answer": "To err is human, to really foul things up you need a computer."
+    },
+    {
+        "question": "Why don't bachelors like Git?",
+        "answer": "Because they are afraid to commit."
     }
 ]
 
