@@ -56,6 +56,46 @@ jokes = [
     {
         "question": "What's the best thing about a boolean?",
         "answer": "Even if you're wrong, you're only off by a bit."
+    },
+    {
+        "question": "Why do programmers always mix up Christmas and Halloween?",
+        "answer": "Because Oct 31 == Dec 25."
+    },
+    {
+        "question": "What is a computer's favorite snack?",
+        "answer": "Computer chips."
+    },
+    {
+        "question": "Why was the computer cold?",
+        "answer": "It left its Windows open."
+    },
+    {
+        "question": "What do you call a computer that sings?",
+        "answer": "A-dell."
+    },
+    {
+        "question": "Why did the scarecrow win an award?",
+        "answer": "Because he was outstanding in his field."
+    },
+    {
+        "question": "What did the spider do on the computer?",
+        "answer": "It made a website."
+    },
+    {
+        "question": "Why was the developer always calm?",
+        "answer": "He had inner peace."
+    },
+    {
+        "question": "Why did the programmer quit his job?",
+        "answer": "Because he didn't get arrays."
+    },
+    {
+        "question": "What's a developer's favorite type of music?",
+        "answer": "Algo-rhythm."
+    },
+    {
+        "question": "What is the most used language in programming?",
+        "answer": "Profanity."
     }
 ]
 
