@@ -56,6 +56,46 @@ jokes = [
     {
         "question": "What's the best thing about a boolean?",
         "answer": "Even if you're wrong, you're only off by a bit."
+    },
+    {
+        "question": "I've got a really good UDP joke to tell you, but I don't know if you'll get it.",
+        "answer": "..."
+    },
+    {
+        "question": "There are 10 kinds of people in the world.",
+        "answer": "Those who understand binary and those who don't."
+    },
+    {
+        "question": "A guy walks into a bar and asks for 1.4 root beers.",
+        "answer": "The bartender says “I'll have to charge you extra, that's a root beer float”. The guy says “In that case, better make it a double.”"
+    },
+    {
+        "question": "Knock, knock.",
+        "answer": "(A very long pause) Java."
+    },
+    {
+        "question": "Why did the programmer quit his job?",
+        "answer": "Because he didn't get arrays."
+    },
+    {
+        "question": "A programmer puts two glasses on his bedside table before going to sleep.",
+        "answer": "A full one, in case he gets thirsty, and an empty one, in case he doesn't."
+    },
+    {
+        "question": "What's a programmer's motto?",
+        "answer": "Things aren't always #000000 and #FFFFFF."
+    },
+    {
+        "question": "99 little bugs in the code, 99 little bugs, you take one down and patch it around...",
+        "answer": "125 little bugs in the code."
+    },
+    {
+        "question": "What's a programmer's favorite pick-up line?",
+        "answer": "Are you a keyboard? Because you're my type."
+    },
+    {
+        "question": "Why do programmers always carry umbrellas?",
+        "answer": "In case it starts raining cats and dogs."
     }
 ]
 
