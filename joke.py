@@ -56,6 +56,46 @@ jokes = [
     {
         "question": "What's the best thing about a boolean?",
         "answer": "Even if you're wrong, you're only off by a bit."
+    },
+    {
+        "question": "Why do programmers always mix up Christmas and Halloween?",
+        "answer": "Because Oct 31 == Dec 25."
+    },
+    {
+        "question": "What's the best way to learn to code?",
+        "answer": "Make mistakes and then debug them."
+    },
+    {
+        "question": "Why did the programmer quit his job?",
+        "answer": "He didn't get arrays."
+    },
+    {
+        "question": "What is a computer's favorite beat?",
+        "answer": "An algo-rhythm."
+    },
+    {
+        "question": "Why did the two Java methods get a divorce?",
+        "answer": "Because they had constant arguments."
+    },
+    {
+        "question": "What do you call a programmer who is also a bodybuilder?",
+        "answer": "A strong developer."
+    },
+    {
+        "question": "Why did the CSS developer go to the eye doctor?",
+        "answer": "He had a problem with his vision."
+    },
+    {
+        "question": "What did the server say to the client who was leaving?",
+        "answer": "Bye, have a good time!"
+    },
+    {
+        "question": "Why was the database administrator always so calm?",
+        "answer": "Because he knew how to handle a crisis."
+    },
+    {
+        "question": "What's a developer's favorite type of music?",
+        "answer": "Heavy metal, because it's full of lead."
     }
 ]
 
