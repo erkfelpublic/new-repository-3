@@ -16,6 +16,46 @@ jokes = [
     {
         "question": "Why did the developer go broke?",
         "answer": "Because he used up all his cache."
+    },
+    {
+        "question": "What is a programmer's favorite drink?",
+        "answer": "Java."
+    },
+    {
+        "question": "Why was the JavaScript developer sad?",
+        "answer": "Because he didn't Node how to Express himself."
+    },
+    {
+        "question": "How many programmers does it take to change a light bulb?",
+        "answer": "None. It's a hardware problem."
+    },
+    {
+        "question": "What's the object-oriented way to become wealthy?",
+        "answer": "Inheritance."
+    },
+    {
+        "question": "Why did the web developer refuse to leave the house?",
+        "answer": "He had a cache flow problem."
+    },
+    {
+        "question": "What do you call a programmer from Finland?",
+        "answer": "Nerdic."
+    },
+    {
+        "question": "What did the Java code say to the C code?",
+        "answer": "You've got no class."
+    },
+    {
+        "question": "Why do Java developers wear glasses?",
+        "answer": "Because they don't C#."
+    },
+    {
+        "question": "How do you comfort a JavaScript bug?",
+        "answer": "You console it."
+    },
+    {
+        "question": "What's the best thing about a boolean?",
+        "answer": "Even if you're wrong, you're only off by a bit."
     }
 ]
 
