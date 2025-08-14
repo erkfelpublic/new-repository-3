@@ -193,8 +193,8 @@ jokes = [
     },
     {
         "number": 39,
-        "question": "What do you get when you cross a snowman and a vampire?",
-        "answer": "Frostbite."
+        "question": "Why don't programmers like to go outside?",
+        "answer": "The sun has too much glare, and they can't C#."
     },
     {
         "number": 40,
