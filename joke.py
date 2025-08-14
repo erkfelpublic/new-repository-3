@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "What's a pirate's favorite programming language?",
+        "answer": "You'd think it's R, but a pirate's first love is the C."
+    },
+    {
+        "number": 34,
+        "question": "Why do front-end developers eat lunch alone?",
+        "answer": "Because they don't know how to join tables."
+    },
+    {
+        "number": 35,
+        "question": "What do you call a lazy programmer?",
+        "answer": "A screen slug."
+    },
+    {
+        "number": 36,
+        "question": "Why did the scarecrow win an award?",
+        "answer": "Because he was outstanding in his field."
+    },
+    {
+        "number": 37,
+        "question": "What did the grape say when it got stepped on?",
+        "answer": "Nothing, but it let out a little wine."
+    },
+    {
+        "number": 38,
+        "question": "Why don't scientists trust atoms?",
+        "answer": "Because they make up everything."
+    },
+    {
+        "number": 39,
+        "question": "What do you get when you cross a snowman and a vampire?",
+        "answer": "Frostbite."
+    },
+    {
+        "number": 40,
+        "question": "Why did the bicycle fall over?",
+        "answer": "Because it was two tired."
+    },
+    {
+        "number": 41,
+        "question": "What's orange and sounds like a parrot?",
+        "answer": "A carrot."
+    },
+    {
+        "number": 42,
+        "question": "What do you call a fake noodle?",
+        "answer": "An impasta."
     }
 ]
 
