@@ -173,41 +173,36 @@ jokes = [
     },
     {
         "number": 35,
-        "question": "What do you call a lazy programmer?",
-        "answer": "A screen-oriented architect."
-    },
-    {
-        "number": 36,
         "question": "Why did the scarecrow win an award?",
         "answer": "Because he was outstanding in his field."
     },
     {
-        "number": 37,
-        "question": "How did the programmer die in the shower?",
-        "answer": "He read the shampoo bottle instructions: Lather, Rinse, Repeat."
+        "number": 36,
+        "question": "Why did the programmer get stuck in the shower?",
+        "answer": "Because the shampoo bottle said: Lather, Rinse, Repeat."
     },
     {
-        "number": 38,
+        "number": 37,
         "question": "What's the best way to catch a runaway computer?",
         "answer": "Use the internet."
     },
     {
-        "number": 39,
+        "number": 38,
         "question": "Why can't a bike stand on its own?",
         "answer": "It's two tired."
     },
     {
-        "number": 40,
+        "number": 39,
         "question": "What did the grape say when it got stepped on?",
         "answer": "Nothing, but it let out a little whine."
     },
     {
-        "number": 41,
+        "number": 40,
         "question": "Why don't scientists trust atoms?",
         "answer": "Because they make up everything."
     },
     {
-        "number": 42,
+        "number": 41,
         "question": "What do you call a fake noodle?",
         "answer": "An Impasta."
     }
