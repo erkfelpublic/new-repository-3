@@ -56,6 +56,46 @@ jokes = [
     {
         "question": "What's the best thing about a boolean?",
         "answer": "Even if you're wrong, you're only off by a bit."
+    },
+    {
+        "question": "What's a developer's favorite type of music?",
+        "answer": "Algo-rhythm."
+    },
+    {
+        "question": "Why did the programmer quit his job?",
+        "answer": "He didn't get arrays."
+    },
+    {
+        "question": "What do you call a programmer who is also a bodybuilder?",
+        "answer": "A software developer."
+    },
+    {
+        "question": "Why do programmers always mix up Christmas and Halloween?",
+        "answer": "Because Oct 31 == Dec 25."
+    },
+    {
+        "question": "What's the difference between a programmer and a pilot?",
+        "answer": "A pilot knows when to stop."
+    },
+    {
+        "question": "How do you generate a random string?",
+        "answer": "Put a first-year student in front of vim and ask them to exit."
+    },
+    {
+        "question": "What's a programmer's favorite movie?",
+        "answer": "The Social Network."
+    },
+    {
+        "question": "Why was the computer cold?",
+        "answer": "It left its Windows open."
+    },
+    {
+        "question": "What is a computer's favorite snack?",
+        "answer": "Microchips."
+    },
+    {
+        "question": "Why are Assembly programmers always soaking wet?",
+        "answer": "They work below C-level."
     }
 ]
 
