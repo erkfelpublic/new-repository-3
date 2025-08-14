@@ -66,10 +66,6 @@ jokes = [
         "answer": "He didn't get arrays."
     },
     {
-        "question": "What do you call a programmer who is also a bodybuilder?",
-        "answer": "A software developer."
-    },
-    {
         "question": "Why do programmers always mix up Christmas and Halloween?",
         "answer": "Because Oct 31 == Dec 25."
     },
