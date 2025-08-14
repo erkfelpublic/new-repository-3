@@ -123,46 +123,41 @@ jokes = [
     },
     {
         "number": 25,
-        "question": "A SQL query goes into a bar, walks up to two tables and asks, 'Can I join you?'",
-        "answer": ""
-    },
-    {
-        "number": 26,
         "question": "How do you tell an introvert developer from an extrovert developer?",
         "answer": "An extrovert developer looks at your shoes when he is talking to you."
     },
     {
-        "number": 27,
+        "number": 26,
         "question": "What is the most used language in programming?",
         "answer": "Profanity."
     },
     {
-        "number": 28,
+        "number": 27,
         "question": "There are 10 types of people in the world: those who understand binary, and those who don't.",
-        "answer": ""
+        "answer": "The punchline is that '10' in binary is equal to 2 in decimal."
     },
     {
-        "number": 29,
+        "number": 28,
         "question": "Why was the developer always calm?",
         "answer": "He knew how to handle exceptions."
     },
     {
-        "number": 30,
+        "number": 29,
         "question": "What's the best way to get a developer to write documentation?",
         "answer": "Tell them it's 'code'."
     },
     {
-        "number": 31,
+        "number": 30,
         "question": "Why did the functions stop calling each other?",
         "answer": "Because they had constant arguments."
     },
     {
-        "number": 32,
+        "number": 31,
         "question": "What do you call a group of 8 Hobbits?",
         "answer": "A Hobbyte."
     },
     {
-        "number": 33,
+        "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
     }
