@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "What's a programmer's favorite place to swim?",
+        "answer": "The data pool."
+    },
+    {
+        "number": 34,
+        "question": "Why do front-end developers eat lunch alone?",
+        "answer": "Because they don't know how to join tables."
+    },
+    {
+        "number": 35,
+        "question": "What is the biggest lie in the entire universe?",
+        "answer": "I have read and agree to the Terms and Conditions."
+    },
+    {
+        "number": 36,
+        "question": "Why did the programmer get stuck in the shower?",
+        "answer": "The instructions said: Lather, Rinse, Repeat."
+    },
+    {
+        "number": 37,
+        "question": "What do you call a lazy programmer?",
+        "answer": "A screen saver."
+    },
+    {
+        "number": 38,
+        "question": "Why was the database admin's marriage so successful?",
+        "answer": "He had a great relationship with his tables."
+    },
+    {
+        "number": 39,
+        "question": "What do you call a programmer who is also a bodybuilder?",
+        "answer": "A strong developer."
+    },
+    {
+        "number": 40,
+        "question": "Why did the developer go to the gym?",
+        "answer": "To get a better 'push' and 'pull'."
+    },
+    {
+        "number": 41,
+        "question": "What's a programmer's favorite season?",
+        "answer": "Fall, because it's when they catch the most bugs."
+    },
+    {
+        "number": 42,
+        "question": "Why are programmers so good at solving problems?",
+        "answer": "Because they are used to debugging their own code."
     }
 ]
 
