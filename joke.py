@@ -172,19 +172,9 @@ jokes = [
         "answer": "Because they don't know how to join tables."
     },
     {
-        "number": 35,
-        "question": "What is the biggest lie in the entire universe?",
-        "answer": "I have read and agree to the Terms and Conditions."
-    },
-    {
         "number": 36,
         "question": "Why did the programmer get stuck in the shower?",
         "answer": "The instructions said: Lather, Rinse, Repeat."
-    },
-    {
-        "number": 37,
-        "question": "What do you call a lazy programmer?",
-        "answer": "A screen saver."
     },
     {
         "number": 38,
