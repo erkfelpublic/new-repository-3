@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "What's a bug's life motto?",
+        "answer": "Live, laugh, log errors."
+    },
+    {
+        "number": 34,
+        "question": "Why do front-end developers like parties?",
+        "answer": "Because they can't resist a good 'div'."
+    },
+    {
+        "number": 35,
+        "question": "Why did the CSS selector break up with the HTML element?",
+        "answer": "It felt like it had too many pseudo-classes."
+    },
+    {
+        "number": 36,
+        "question": "Why did the developer get fired from the keyboard factory?",
+        "answer": "He wasn't putting in enough shifts."
+    },
+    {
+        "number": 37,
+        "question": "How does a programmer open a jar?",
+        "answer": "They use a Java Archive."
+    },
+    {
+        "number": 38,
+        "question": "Why did the programmer bring a ladder to the bar?",
+        "answer": "He heard the drinks were on the house."
+    },
+    {
+        "number": 39,
+        "question": "What's the best way to learn to code?",
+        "answer": "Commit to it."
+    },
+    {
+        "number": 40,
+        "question": "Why was the database administrator so good at his job?",
+        "answer": "He had a lot of table manners."
+    },
+    {
+        "number": 41,
+        "question": "What's a pirate's favorite programming language?",
+        "answer": "You'd think it's R, but their first love is the C."
+    },
+    {
+        "number": 42,
+        "question": "Why did the Python developer break up with the Java developer?",
+        "answer": "She said he was too dynamic for her."
     }
 ]
 
