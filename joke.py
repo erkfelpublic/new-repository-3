@@ -162,11 +162,6 @@ jokes = [
         "answer": "They didn't see eye to eye on the interface."
     },
     {
-        "number": 33,
-        "question": "What's the best way to learn programming?",
-        "answer": "By doing it."
-    },
-    {
         "number": 34,
         "question": "Why are programmers so good at solving problems?",
         "answer": "Because they're used to debugging."
@@ -203,8 +198,8 @@ jokes = [
     },
     {
         "number": 41,
-        "question": "What's a programmer's favorite game?",
-        "answer": "Minecraft."
+        "question": "Why do programmers excel at Minecraft?",
+        "answer": "Because they're used to dealing with blocks and crafting solutions!"
     },
     {
         "number": 42,
