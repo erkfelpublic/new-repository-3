@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "Why do programmers like to use green?",
+        "answer": "Because it's the color of 'go' in traffic lights."
+    },
+    {
+        "number": 34,
+        "question": "What's a programmer's favorite place in a hospital?",
+        "answer": "The emergency 'room'."
+    },
+    {
+        "number": 35,
+        "question": "Why did the programmer get kicked out of school?",
+        "answer": "He was caught trying to hack the 'main' frame."
+    },
+    {
+        "number": 36,
+        "question": "What's a programmer's favorite type of story?",
+        "answer": "A 'loop'ing one."
+    },
+    {
+        "number": 37,
+        "question": "Why did the programmer bring a ladder to the bar?",
+        "answer": "He heard the drinks were on the 'house'."
+    },
+    {
+        "number": 38,
+        "question": "What's a programmer's favorite game?",
+        "answer": "'Tag', because they love to 'commit' and 'push'."
+    },
+    {
+        "number": 39,
+        "question": "Why did the programmer get a job at the bakery?",
+        "answer": "He was good at making 'cookies'."
+    },
+    {
+        "number": 40,
+        "question": "What's a programmer's favorite type of tree?",
+        "answer": "A 'binary' tree."
+    },
+    {
+        "number": 41,
+        "question": "Why did the programmer get lost in the shower?",
+        "answer": "Because the instructions on the shampoo bottle said: 'Lather, rinse, repeat'."
+    },
+    {
+        "number": 42,
+        "question": "What's a programmer's favorite song?",
+        "answer": "'Hello, World!'"
     }
 ]
 
