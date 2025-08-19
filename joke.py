@@ -160,6 +160,11 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "Why don't programmers like to go outside?",
+        "answer": "The sunlight creates too many race conditions."
     }
 ]
 
