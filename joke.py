@@ -160,6 +160,51 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 34,
+        "question": "Why are programmers so good at solving problems?",
+        "answer": "Because they're used to debugging."
+    },
+    {
+        "number": 35,
+        "question": "What's a programmer's favorite sport?",
+        "answer": "Debugging."
+    },
+    {
+        "number": 36,
+        "question": "Why do programmers hate the sun?",
+        "answer": "Because it's a source of light, and they prefer the dark."
+    },
+    {
+        "number": 37,
+        "question": "What's a programmer's favorite book?",
+        "answer": "The Lord of the Rings: The Two Towers."
+    },
+    {
+        "number": 38,
+        "question": "Why did the programmer get kicked out of school?",
+        "answer": "Because he was caught hacking."
+    },
+    {
+        "number": 39,
+        "question": "What's a programmer's favorite animal?",
+        "answer": "A python."
+    },
+    {
+        "number": 40,
+        "question": "Why did the programmer get lost in the woods?",
+        "answer": "Because he couldn't find his way back to the root directory."
+    },
+    {
+        "number": 41,
+        "question": "Why do programmers excel at Minecraft?",
+        "answer": "Because they're used to dealing with blocks and crafting solutions!"
+    },
+    {
+        "number": 42,
+        "question": "Why did the programmer get a tattoo of a bug?",
+        "answer": "Because he wanted to be able to say he had a bug on his arm."
     }
 ]
 
