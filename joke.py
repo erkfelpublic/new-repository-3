@@ -168,48 +168,48 @@ jokes = [
     },
     {
         "number": 34,
+        "question": "Why do Python programmers need glasses?",
+        "answer": "Because they can't C."
+    },
+    {
+        "number": 35,
         "question": "What did the Vim user say to the Emacs user?",
         "answer": "I don't know, I couldn't hear him over the sound of his chording."
     },
     {
-        "number": 35,
+        "number": 36,
         "question": "How do you make a million dollars with open source software?",
         "answer": "Start with two million."
     },
     {
-        "number": 36,
+        "number": 37,
         "question": "Why was the database administrator so good at their job?",
         "answer": "They had a lot of relations."
     },
     {
-        "number": 37,
+        "number": 38,
         "question": "What's the best way to learn a new programming language?",
         "answer": "By trying to write a compiler for it in that same language."
     },
     {
-        "number": 38,
+        "number": 39,
         "question": "Why did the programmer get stuck in the shower?",
         "answer": "The instructions on the shampoo bottle said: Lather, rinse, repeat."
     },
     {
-        "number": 39,
+        "number": 40,
         "question": "What's the difference between a software developer and a large pizza?",
         "answer": "A large pizza can feed a family of four."
     },
     {
-        "number": 40,
+        "number": 41,
         "question": "Why do programmers prefer to stay indoors?",
         "answer": "The sunlight causes too many reflections."
     },
     {
-        "number": 41,
+        "number": 42,
         "question": "What's a programmer's favorite song?",
         "answer": "'Hello, World!' by The Beatles."
-    },
-    {
-        "number": 42,
-        "question": "Why did the scarecrow win an award?",
-        "answer": "Because he was outstanding in his field."
     }
 ]
 
