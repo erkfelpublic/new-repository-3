@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "What's a programmer's favorite place to swim?",
+        "answer": "The C."
+    },
+    {
+        "number": 34,
+        "question": "Why do Python programmers need glasses?",
+        "answer": "Because they can't C."
+    },
+    {
+        "number": 35,
+        "question": "What did the Vim user say to the Emacs user?",
+        "answer": "I don't know, I couldn't hear him over the sound of his chording."
+    },
+    {
+        "number": 36,
+        "question": "How do you make a million dollars with open source software?",
+        "answer": "Start with two million."
+    },
+    {
+        "number": 37,
+        "question": "Why was the database administrator so good at their job?",
+        "answer": "They had a lot of relations."
+    },
+    {
+        "number": 38,
+        "question": "What's the best way to learn a new programming language?",
+        "answer": "By trying to write a compiler for it in that same language."
+    },
+    {
+        "number": 39,
+        "question": "Why did the programmer get stuck in the shower?",
+        "answer": "The instructions on the shampoo bottle said: Lather, rinse, repeat."
+    },
+    {
+        "number": 40,
+        "question": "What's the difference between a software developer and a large pizza?",
+        "answer": "A large pizza can feed a family of four."
+    },
+    {
+        "number": 41,
+        "question": "Why do programmers prefer to stay indoors?",
+        "answer": "The sunlight causes too many reflections."
+    },
+    {
+        "number": 42,
+        "question": "What's a programmer's favorite song?",
+        "answer": "'Hello, World!' by The Beatles."
     }
 ]
 
