@@ -160,6 +160,11 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "Why do front-end developers always eat alone?",
+        "answer": "Because they don't know how to join tables."
     }
 ]
 
