@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "Why do programmers like to use the terminal?",
+        "answer": "Because it's a great way to shell-ebrate their work."
+    },
+    {
+        "number": 34,
+        "question": "What's a programmer's favorite season?",
+        "answer": "Winter, because it's when they get to use their snow-des."
+    },
+    {
+        "number": 35,
+        "question": "Why did the programmer bring a ladder to the bar?",
+        "answer": "He heard the drinks were on the house."
+    },
+    {
+        "number": 36,
+        "question": "What's a programmer's favorite type of story?",
+        "answer": "A loop, because it has a good beginning, middle, and end... and beginning, and middle, and end..."
+    },
+    {
+        "number": 37,
+        "question": "Why did the programmer get kicked out of school?",
+        "answer": "He was caught trying to hack the main-frame."
+    },
+    {
+        "number": 38,
+        "question": "What's a programmer's favorite type of pet?",
+        "answer": "A python, because it's easy to get attached to."
+    },
+    {
+        "number": 39,
+        "question": "Why was the programmer always so good at his job?",
+        "answer": "He was always in his element."
+    },
+    {
+        "number": 40,
+        "question": "What's a programmer's favorite type of clothing?",
+        "answer": "A code-igan."
+    },
+    {
+        "number": 41,
+        "question": "Why did the programmer always carry a pencil and paper with him?",
+        "answer": "In case he needed to draw a flowchart."
+    },
+    {
+        "number": 42,
+        "question": "What's a programmer's favorite type of transportation?",
+        "answer": "A code-iac."
     }
 ]
 
