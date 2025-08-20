@@ -160,6 +160,61 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "Why don't programmers like to go outside?",
+        "answer": "The sunlight creates too many race conditions."
+    },
+    {
+        "number": 34,
+        "question": "What do you call a lazy programmer?",
+        "answer": "A `sloth`ware developer."
+    },
+    {
+        "number": 35,
+        "question": "Why did the programmer get stuck in the shower?",
+        "answer": "The instructions said: Lather, Rinse, Repeat."
+    },
+    {
+        "number": 36,
+        "question": "What is a computer's favorite beat?",
+        "answer": "An algo-rhythm."
+    },
+    {
+        "number": 37,
+        "question": "Why do front-end developers eat lunch alone?",
+        "answer": "Because they don't know how to join tables."
+    },
+    {
+        "number": 38,
+        "question": "What's the best way to learn to code?",
+        "answer": "By making a lot of `mistakes`."
+    },
+    {
+        "number": 39,
+        "question": "Why did the developer have to go to the doctor?",
+        "answer": "He had a bad `case` of the Mondays."
+    },
+    {
+        "number": 40,
+        "question": "What's a programmer's favorite place to go on vacation?",
+        "answer": "The `Foo` Bar."
+    },
+    {
+        "number": 41,
+        "question": "Why did the programmer break up with his keyboard?",
+        "answer": "It wasn't his `type`."
+    },
+    {
+        "number": 42,
+        "question": "Why did the programmer get fired?",
+        "answer": "He was too `static`."
+    },
+    {
+        "number": 43,
+        "question": "What's a programmer's favorite song?",
+        "answer": "'Hello, World!'"
     }
 ]
 
