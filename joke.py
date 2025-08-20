@@ -165,6 +165,71 @@ jokes = [
         "number": 33,
         "question": "I've got a great UDP joke...",
         "answer": "...but I'm not sure if you'll get it."
+    },
+    {
+        "number": 34,
+        "question": "What's a pirate's favorite programming language?",
+        "answer": "R"
+    },
+    {
+        "number": 35,
+        "question": "I would tell you a joke about TCP...",
+        "answer": "...but I would have to keep repeating it until you get it."
+    },
+    {
+        "number": 36,
+        "question": "Why was the equal sign so humble?",
+        "answer": "Because he knew he wasn't less than or greater than anyone else."
+    },
+    {
+        "number": 37,
+        "question": "What do you call a developer that doesn't comment their code?",
+        "answer": "A myth."
+    },
+    {
+        "number": 38,
+        "question": "What's the best way to learn a new programming language?",
+        "answer": "By trying to write a 'Hello, World!' program in it... and failing for a week."
+    },
+    {
+        "number": 39,
+        "question": "What's a programmer's favorite place to go on vacation?",
+        "answer": "The C."
+    },
+    {
+        "number": 40,
+        "question": "Why do they call it 'debugging'?",
+        "answer": "Because removing the bugs is only half the battle. The other half is figuring out how they got there in the first place."
+    },
+    {
+        "number": 41,
+        "question": "A programmer puts two glasses on his bedside table.",
+        "answer": "One with water if he gets thirsty, and one empty in case he doesn't."
+    },
+    {
+        "number": 42,
+        "question": "What's the difference between a software developer and a large pizza?",
+        "answer": "A large pizza can feed a family of four."
+    },
+    {
+        "number": 43,
+        "question": "Why did the developer go to the gym?",
+        "answer": "To work on his core dumps."
+    },
+    {
+        "number": 44,
+        "question": "Why did the programmer get stuck in the shower?",
+        "answer": "He was following the instructions on the shampoo bottle: Lather, rinse, repeat."
+    },
+    {
+        "number": 45,
+        "question": "What's the best part about being a programmer?",
+        "answer": "You get to work from home in your pajamas."
+    },
+    {
+        "number": 46,
+        "question": "Why was the function sad?",
+        "answer": "Because it was never called."
     }
 ]
 
