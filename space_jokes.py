@@ -1,6 +1,6 @@
 import random
 
-def get_space_joke():
+def get_universe_joke():
     jokes = [
         "Why did the sun go to school? To get brighter!",
         "What do you call a lazy kangaroo? Pouch potato!",
@@ -11,4 +11,4 @@ def get_space_joke():
     return random.choice(jokes)
 
 if __name__ == "__main__":
-    print(get_space_joke())
+    print(get_universe_joke())
