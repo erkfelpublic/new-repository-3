@@ -168,46 +168,41 @@ jokes = [
     },
     {
         "number": 34,
-        "question": "What's a programmer's favorite season?",
-        "answer": "Winter, because it's when they get to use their snow-des."
-    },
-    {
-        "number": 35,
         "question": "Why did the programmer bring a ladder to the bar?",
         "answer": "He heard the drinks were on the house."
     },
     {
-        "number": 36,
+        "number": 35,
         "question": "What's a programmer's favorite type of story?",
         "answer": "A loop, because it has a good beginning, middle, and end... and beginning, and middle, and end..."
     },
     {
-        "number": 37,
+        "number": 36,
         "question": "Why did the programmer get kicked out of school?",
         "answer": "He was caught trying to hack the main-frame."
     },
     {
-        "number": 38,
+        "number": 37,
         "question": "What's a programmer's favorite type of pet?",
         "answer": "A python, because it's easy to get attached to."
     },
     {
-        "number": 39,
+        "number": 38,
         "question": "Why was the programmer always so good at his job?",
         "answer": "He was always in his element."
     },
     {
-        "number": 40,
+        "number": 39,
         "question": "What's a programmer's favorite type of clothing?",
         "answer": "A code-igan."
     },
     {
-        "number": 41,
-        "question": "Why did the programmer always carry a pencil and paper with him?",
+        "number": 40,
+        "question": "Why did the programmer always have a pencil and paper handy?",
         "answer": "In case he needed to draw a flowchart."
     },
     {
-        "number": 42,
+        "number": 41,
         "question": "What's a programmer's favorite type of transportation?",
         "answer": "A code-iac."
     }
