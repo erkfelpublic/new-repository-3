@@ -163,8 +163,8 @@ jokes = [
     },
     {
         "number": 33,
-        "question": "Why was the database administrator so good at their job?",
-        "answer": "They had a knack for relationships."
+        "question": "Why are pirates pirates?",
+        "answer": "Because they arrrrr!"
     }
 ]
 
