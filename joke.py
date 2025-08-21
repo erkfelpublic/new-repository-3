@@ -163,7 +163,7 @@ jokes = [
     },
     {
         "number": 33,
-        "question": "Why do front-end developers eat lunch alone?",
+        "question": "Why do front-end developers prefer to eat by themselves?",
         "answer": "Because they don't know how to join tables."
     }
 ]
