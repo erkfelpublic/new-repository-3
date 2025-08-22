@@ -163,8 +163,8 @@ jokes = [
     },
     {
         "number": 33,
-        "question": "Why do programmers hate spiders?",
-        "answer": "Because they're always finding bugs in their webs."
+        "question": "What do you call a lazy kangaroo?",
+        "answer": "Pouch potato."
     }
 ]
 
