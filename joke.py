@@ -210,6 +210,11 @@ jokes = [
         "number": 42,
         "question": "What did the computer do at lunchtime?",
         "answer": "Had a byte!"
+    },
+    {
+        "number": 43,
+        "question": "Relationship status?",
+        "answer": "I'll leave the relations to the database."
     }
 ]
 
