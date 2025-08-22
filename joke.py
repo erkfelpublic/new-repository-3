@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "Why do front-end developers eat lunch alone?",
+        "answer": "Because they don't know how to join tables."
+    },
+    {
+        "number": 34,
+        "question": "What's the best way to learn to code?",
+        "answer": "Make a lot of mistakes."
+    },
+    {
+        "number": 35,
+        "question": "What is the best way to learn a new programming language?",
+        "answer": "By trying to write a program in it."
+    },
+    {
+        "number": 36,
+        "question": "What's the best way to learn about a new technology?",
+        "answer": "By building something with it."
+    },
+    {
+        "number": 37,
+        "question": "Why don't programmers like to go outside?",
+        "answer": "The sun has too much glare."
+    },
+    {
+        "number": 38,
+        "question": "What's a programmer's favorite season?",
+        "answer": "Summer, because there are no classes."
+    },
+    {
+        "number": 39,
+        "question": "Why was the developer so good at his job?",
+        "answer": "He had a lot of 'git' commitment."
+    },
+    {
+        "number": 40,
+        "question": "What did the database say to the developer?",
+        "answer": "Can I join you?"
+    },
+    {
+        "number": 41,
+        "question": "What do you call a developer who doesn't comment their code?",
+        "answer": "A mystery writer."
+    },
+    {
+        "number": 42,
+        "question": "Why did the programmer get stuck in the shower?",
+        "answer": "The instructions said: Lather, Rinse, Repeat."
     }
 ]
 
