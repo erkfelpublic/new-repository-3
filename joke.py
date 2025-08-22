@@ -163,8 +163,13 @@ jokes = [
     },
     {
         "number": 33,
-        "question": "What do you call a kangaroo that watches TV all day?",
-        "answer": "A pouch potato."
+        "question": "What do you call a lazy kangaroo?",
+        "answer": "Pouch potato."
+    },
+    {
+        "number": 34,
+        "question": "Why don't scientists trust atoms?",
+        "answer": "Because they make up everything!"
     }
 ]
 
