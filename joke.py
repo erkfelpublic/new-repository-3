@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "How do you get the code for the bank vault?",
+        "answer": "You checkout their branch."
+    },
+    {
+        "number": 34,
+        "question": "How did the developer announce their engagement?",
+        "answer": "They returned true!"
+    },
+    {
+        "number": 35,
+        "question": "What do you call a busy waiter?",
+        "answer": "A server."
+    },
+    {
+        "number": 36,
+        "question": "How many Prolog programmers does it take to change a lightbulb?",
+        "answer": "Yes."
+    },
+    {
+        "number": 37,
+        "question": "What diet did the ghost developer go on?",
+        "answer": "Boolean"
+    },
+    {
+        "number": 38,
+        "question": "Why was the function sad after a successful first call?",
+        "answer": "It didn’t get a callback."
+    },
+    {
+        "number": 39,
+        "question": "A programmer's significant other tells them, \"Run to the store and pick up a loaf of bread. If they have eggs, get a dozen.\" What happens?",
+        "answer": "The programmer comes home with 12 loaves of bread."
+    },
+    {
+        "number": 40,
+        "question": "What did the spider do on the computer?",
+        "answer": "Made a website!"
+    },
+    {
+        "number": 41,
+        "question": "A SQL query goes into a bar, walks up to two tables and asks:",
+        "answer": "\"Can I JOIN you?\""
+    },
+    {
+        "number": 42,
+        "question": "What do you call a doctor who fixes websites?",
+        "answer": "A URLogist."
     }
 ]
 
