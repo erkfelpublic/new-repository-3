@@ -230,6 +230,21 @@ jokes = [
         "number": 46,
         "question": "What do you call a programmer who is also a bodybuilder?",
         "answer": "A strong-typed developer."
+    },
+    {
+        "number": 47,
+        "question": "Why did the ORM break up with the database?",
+        "answer": "It was tired of the constant object-ion."
+    },
+    {
+        "number": 48,
+        "question": "What's a developer's favorite horror movie?",
+        "answer": "The Human Cent-IP-ede."
+    },
+    {
+        "number": 49,
+        "question": "Why do functional programmers get so many dates?",
+        "answer": "Because they have a lot of closures."
     }
 ]
 
