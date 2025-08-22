@@ -160,6 +160,61 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "How do you get the code for the bank vault?",
+        "answer": "You checkout their branch."
+    },
+    {
+        "number": 34,
+        "question": "How did the developer announce their engagement?",
+        "answer": "They returned true!"
+    },
+    {
+        "number": 35,
+        "question": "How many Prolog programmers does it take to change a lightbulb?",
+        "answer": "Yes."
+    },
+    {
+        "number": 36,
+        "question": "What diet did the ghost developer go on?",
+        "answer": "Boolean"
+    },
+    {
+        "number": 37,
+        "question": "Why was the function sad after a successful first call?",
+        "answer": "It didn’t get a callback."
+    },
+    {
+        "number": 38,
+        "question": "A programmer's partner says 'Buy a loaf of bread, and if they have eggs, buy a dozen.' What does the programmer bring home?",
+        "answer": "12 loaves of bread."
+    },
+    {
+        "number": 39,
+        "question": "What did the spider do on the computer?",
+        "answer": "Made a website!"
+    },
+    {
+        "number": 40,
+        "question": "A SQL query goes into a bar, walks up to two tables and asks:",
+        "answer": "\"Can I JOIN you?\""
+    },
+    {
+        "number": 41,
+        "question": "What do you call a doctor who fixes websites?",
+        "answer": "A URLogist."
+    },
+    {
+        "number": 42,
+        "question": "What did the computer do at lunchtime?",
+        "answer": "Had a byte!"
+    },
+    {
+        "number": 43,
+        "question": "Relationship status?",
+        "answer": "I'll leave the relations to the database."
     }
 ]
 
