@@ -163,8 +163,8 @@ jokes = [
     },
     {
         "number": 33,
-        "question": "What do you call a lazy kangaroo?",
-        "answer": "Pouch potato."
+        "question": "What do you call a kangaroo that watches TV all day?",
+        "answer": "A pouch potato."
     }
 ]
 
