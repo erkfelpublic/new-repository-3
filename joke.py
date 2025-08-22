@@ -210,6 +210,31 @@ jokes = [
         "number": 42,
         "question": "Why did the programmer get stuck in the shower?",
         "answer": "The instructions said: Lather, Rinse, Repeat."
+    },
+    {
+        "number": 43,
+        "question": "Why do programmers like UNIX?",
+        "answer": "Because they can `grep` for things."
+    },
+    {
+        "number": 44,
+        "question": "What's a pirate's favorite programming language?",
+        "answer": "You'd think it's R, but a pirate's first love is the C."
+    },
+    {
+        "number": 45,
+        "question": "Why was the function sad?",
+        "answer": "Because it had too many arguments."
+    },
+    {
+        "number": 46,
+        "question": "Why did the developer go to the gym?",
+        "answer": "To get a better `body`."
+    },
+    {
+        "number": 47,
+        "question": "What do you call a programmer who is also a bodybuilder?",
+        "answer": "A strong-typed developer."
     }
 ]
 
