@@ -178,61 +178,56 @@ jokes = [
     },
     {
         "number": 36,
-        "question": "What's the best way to learn about a new technology?",
-        "answer": "By building something with it."
-    },
-    {
-        "number": 37,
         "question": "Why don't programmers like to go outside?",
         "answer": "The sun has too much glare."
     },
     {
-        "number": 38,
+        "number": 37,
         "question": "What's a programmer's favorite season?",
         "answer": "Summer, because there are no classes."
     },
     {
-        "number": 39,
+        "number": 38,
         "question": "Why was the developer so good at his job?",
         "answer": "He had a lot of 'git' commitment."
     },
     {
-        "number": 40,
+        "number": 39,
         "question": "What did the database say to the developer?",
         "answer": "Can I join you?"
     },
     {
-        "number": 41,
+        "number": 40,
         "question": "What do you call a developer who doesn't comment their code?",
         "answer": "A mystery writer."
     },
     {
-        "number": 42,
+        "number": 41,
         "question": "Why did the programmer get stuck in the shower?",
         "answer": "The instructions said: Lather, Rinse, Repeat."
     },
     {
-        "number": 43,
+        "number": 42,
         "question": "Why do programmers like UNIX?",
         "answer": "Because they can `grep` for things."
     },
     {
-        "number": 44,
+        "number": 43,
         "question": "What's a pirate's favorite programming language?",
         "answer": "You'd think it's R, but a pirate's first love is the C."
     },
     {
-        "number": 45,
+        "number": 44,
         "question": "Why was the function sad?",
         "answer": "Because it had too many arguments."
     },
     {
-        "number": 46,
+        "number": 45,
         "question": "Why did the developer go to the gym?",
         "answer": "To get a better `body`."
     },
     {
-        "number": 47,
+        "number": 46,
         "question": "What do you call a programmer who is also a bodybuilder?",
         "answer": "A strong-typed developer."
     }
