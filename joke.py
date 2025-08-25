@@ -160,6 +160,51 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "What's a programmer's favorite place on the web?",
+        "answer": "Stack Overflow."
+    },
+    {
+        "number": 34,
+        "question": "Why do front-end developers eat lunch alone?",
+        "answer": "Because they don't know how to join tables."
+    },
+    {
+        "number": 35,
+        "question": "What did the server say to the client who was having a bad day?",
+        "answer": "It's not your fault, it's a server-side issue."
+    },
+    {
+        "number": 36,
+        "question": "How many software engineers does it take to screw in a lightbulb?",
+        "answer": "None. It's a hardware problem."
+    },
+    {
+        "number": 37,
+        "question": "Why was the database administrator always so good at solving problems?",
+        "answer": "Because he had a lot of queries."
+    },
+    {
+        "number": 38,
+        "question": "Why did the programmer get stuck in the shower?",
+        "answer": "Because the instructions on the shampoo bottle said: Lather, rinse, repeat."
+    },
+    {
+        "number": 39,
+        "question": "What distinguishes a software developer from a software tester?",
+        "answer": "The developer writes the code, the tester makes them regret it."
+    },
+    {
+        "number": 40,
+        "question": "Why did the programmer have to go to therapy?",
+        "answer": "Because he had too many unresolved issues."
+    },
+    {
+        "number": 41,
+        "question": "What's a programmer's favorite song?",
+        "answer": "Hello, World!"
     }
 ]
 
