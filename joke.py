@@ -188,26 +188,21 @@ jokes = [
     },
     {
         "number": 38,
-        "question": "What do you call a programmer who is also a bodybuilder?",
-        "answer": "A strong-typed developer."
-    },
-    {
-        "number": 39,
         "question": "Why did the programmer get stuck in the shower?",
         "answer": "Because the instructions on the shampoo bottle said: Lather, rinse, repeat."
     },
     {
-        "number": 40,
-        "question": "What's the difference between a software developer and a software tester?",
+        "number": 39,
+        "question": "What distinguishes a software developer from a software tester?",
         "answer": "The developer writes the code, the tester makes them regret it."
     },
     {
-        "number": 41,
+        "number": 40,
         "question": "Why did the programmer have to go to therapy?",
         "answer": "Because he had too many unresolved issues."
     },
     {
-        "number": 42,
+        "number": 41,
         "question": "What's a programmer's favorite song?",
         "answer": "Hello, World!"
     }
