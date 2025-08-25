@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "What's a pirate's favorite programming language?",
+        "answer": "You'd think it's R, but a pirate's first love is the C."
+    },
+    {
+        "number": 34,
+        "question": "Why did the SQL query get invited to the party?",
+        "answer": "Because it could join all the tables."
+    },
+    {
+        "number": 35,
+        "question": "What do you call a lazy kangaroo?",
+        "answer": "Pouch potato."
+    },
+    {
+        "number": 36,
+        "question": "Why was the function sad?",
+        "answer": "Because it had too many arguments."
+    },
+    {
+        "number": 37,
+        "question": "What's the best way to catch a squirrel?",
+        "answer": "Climb a tree and act like a nut."
+    },
+    {
+        "number": 38,
+        "question": "Why don't scientists trust atoms?",
+        "answer": "Because they make up everything."
+    },
+    {
+        "number": 39,
+        "question": "What do you call a fake noodle?",
+        "answer": "An impasta."
+    },
+    {
+        "number": 40,
+        "question": "Why did the scarecrow win an award?",
+        "answer": "Because he was outstanding in his field."
+    },
+    {
+        "number": 41,
+        "question": "What do you call a fish with no eyes?",
+        "answer": "Fsh."
+    },
+    {
+        "number": 42,
+        "question": "What do you get when you cross a snowman and a vampire?",
+        "answer": "Frostbite."
     }
 ]
 
