@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "Why do front-end developers eat lunch alone?",
+        "answer": "Because they don't know how to join tables."
+    },
+    {
+        "number": 34,
+        "question": "What is the best way to learn programming?",
+        "answer": "Code, code, and code some more."
+    },
+    {
+        "number": 35,
+        "question": "Why did the programmer get stuck in the shower?",
+        "answer": "The instructions said: Lather, Rinse, Repeat."
+    },
+    {
+        "number": 36,
+        "question": "What's a programmer's favorite place to go on vacation?",
+        "answer": "Bootcamp."
+    },
+    {
+        "number": 37,
+        "question": "Why do programmers hate studying?",
+        "answer": "Because they can't 'Ctrl+F' a textbook."
+    },
+    {
+        "number": 38,
+        "question": "What do you call a programmer who is also a bodybuilder?",
+        "answer": "A 'strong' developer."
+    },
+    {
+        "number": 39,
+        "question": "Why did the programmer bring a ladder to the bar?",
+        "answer": "He heard the drinks were on the house."
+    },
+    {
+        "number": 40,
+        "question": "What's a programmer's favorite type of story?",
+        "answer": "A 'git' saga."
+    },
+    {
+        "number": 41,
+        "question": "Why don't programmers like to play hide and seek?",
+        "answer": "Because they always get caught in a 'loop'."
+    },
+    {
+        "number": 42,
+        "question": "What did the programmer say to the bug?",
+        "answer": "'You're really starting to bug me!'"
     }
 ]
 
