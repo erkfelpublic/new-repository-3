@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "What's a programmer's favorite place to swim?",
+        "answer": "The C."
+    },
+    {
+        "number": 34,
+        "question": "Why did the programmer bring a ladder to the bar?",
+        "answer": "He heard the drinks were on the house."
+    },
+    {
+        "number": 35,
+        "question": "What do you call a programmer who is also a bodybuilder?",
+        "answer": "A software lifter."
+    },
+    {
+        "number": 36,
+        "question": "Why don't programmers like to play hide and seek?",
+        "answer": "Because they always get caught in a loop."
+    },
+    {
+        "number": 37,
+        "question": "What's the best way to learn a new programming language?",
+        "answer": "By making a lot of mistakes."
+    },
+    {
+        "number": 38,
+        "question": "Why did the programmer get kicked out of school?",
+        "answer": "Because he was caught hacking."
+    },
+    {
+        "number": 39,
+        "question": "What's a programmer's favorite type of story?",
+        "answer": "A tall tale."
+    },
+    {
+        "number": 40,
+        "question": "Why did the programmer cross the road?",
+        "answer": "To get to the other side... of the screen."
+    },
+    {
+        "number": 41,
+        "question": "What's a programmer's favorite type of tree?",
+        "answer": "A binary tree."
+    },
+    {
+        "number": 42,
+        "question": "Why did the programmer get lost in the woods?",
+        "answer": "Because he couldn't find the root."
     }
 ]
 
