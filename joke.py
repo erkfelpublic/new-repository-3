@@ -160,6 +160,156 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "What's a programmer's favorite type of clothing?",
+        "answer": "A hoodie, so they can be in their own 'shell'."
+    },
+    {
+        "number": 34,
+        "question": "Why did the programmer get stuck in the shower?",
+        "answer": "The instructions said: Lather, Rinse, Repeat."
+    },
+    {
+        "number": 35,
+        "question": "What do you call a lazy programmer?",
+        "answer": "A screen potato."
+    },
+    {
+        "number": 36,
+        "question": "Why did the scarecrow win an award?",
+        "answer": "Because he was outstanding in his field!"
+    },
+    {
+        "number": 37,
+        "question": "What do you get when you cross a computer and a lifeguard?",
+        "answer": "A screensaver."
+    },
+    {
+        "number": 38,
+        "question": "Why was the database admin always invited to parties?",
+        "answer": "He was great at making connections."
+    },
+    {
+        "number": 39,
+        "question": "What's a pirate's favorite programming language?",
+        "answer": "You'd think it's R, but a pirate's first love is the C."
+    },
+    {
+        "number": 40,
+        "question": "Why do programmers hate the sun?",
+        "answer": "Because it's a source of light, which attracts bugs."
+    },
+    {
+        "number": 41,
+        "question": "How many software engineers does it take to screw in a lightbulb?",
+        "answer": "They can't. It's a hardware problem."
+    },
+    {
+        "number": 42,
+        "question": "Why did the constant break up with the variable?",
+        "answer": "Because he was always changing."
+    },
+    {
+        "number": 43,
+        "question": "What's the best way to learn a new programming language?",
+        "answer": "By writing a program that writes programs in that language."
+    },
+    {
+        "number": 44,
+        "question": "Why did the programmer break up with the keyboard?",
+        "answer": "It wasn't his type."
+    },
+    {
+        "number": 45,
+        "question": "How do you get a programmer out of the shower?",
+        "answer": "Throw a rubber duck at them and tell them to debug it."
+    },
+    {
+        "number": 46,
+        "question": "What's a developer's favorite song?",
+        "answer": "'Hello, World!' by The Code."
+    },
+    {
+        "number": 47,
+        "question": "Why did the developer go to therapy?",
+        "answer": "He had too many issues."
+    },
+    {
+        "number": 48,
+        "question": "What's the difference between a developer and a pizza?",
+        "answer": "A pizza can feed a family of four."
+    },
+    {
+        "number": 49,
+        "question": "Why are programmers so good at solving problems?",
+        "answer": "Because they're used to dealing with bugs."
+    },
+    {
+        "number": 50,
+        "question": "What do you call a programmer who is also a bodybuilder?",
+        "answer": "A brogrammer."
+    },
+    {
+        "number": 51,
+        "question": "Why did the programmer bring a ladder to the bar?",
+        "answer": "He heard the drinks were on the house."
+    },
+    {
+        "number": 52,
+        "question": "What's a programmer's favorite place to go on vacation?",
+        "answer": "The command line."
+    },
+    {
+        "number": 53,
+        "question": "Why do programmers like to use the terminal?",
+        "answer": "Because it's a great way to get their shell on."
+    },
+    {
+        "number": 54,
+        "question": "What do you call a programmer who is always tired?",
+        "answer": "A sleep-deprived developer."
+    },
+    {
+        "number": 55,
+        "question": "Why did the programmer get fired?",
+        "answer": "He was a bad influence on the other developers."
+    },
+    {
+        "number": 56,
+        "question": "What's a programmer's favorite type of coffee?",
+        "answer": "A double espresso, because it's a quick fix."
+    },
+    {
+        "number": 57,
+        "question": "Why did the programmer get lost in the woods?",
+        "answer": "He took the wrong path."
+    },
+    {
+        "number": 58,
+        "question": "What's a programmer's favorite type of book?",
+        "answer": "A manual."
+    },
+    {
+        "number": 59,
+        "question": "Why did the programmer get a tattoo of a bug?",
+        "answer": "He wanted to have a permanent reminder of his mistakes."
+    },
+    {
+        "number": 60,
+        "question": "What's a programmer's favorite type of pet?",
+        "answer": "A python."
+    },
+    {
+        "number": 61,
+        "question": "Why did the programmer get a job at the zoo?",
+        "answer": "He wanted to work with anacondas."
+    },
+    {
+        "number": 62,
+        "question": "Why do programmers like to work in the dark?",
+        "answer": "Because they're afraid of the light."
     }
 ]
 
