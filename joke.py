@@ -210,6 +210,56 @@ jokes = [
         "number": 42,
         "question": "What did the programmer say to the bug?",
         "answer": "'You're really starting to bug me!'"
+    },
+    {
+        "number": 43,
+        "question": "Why did the developer go to the gym?",
+        "answer": "To work on his 'core' strength."
+    },
+    {
+        "number": 44,
+        "question": "What's a programmer's favorite type of tree?",
+        "answer": "A 'binary' tree."
+    },
+    {
+        "number": 45,
+        "question": "Why do programmers always get their way?",
+        "answer": "Because they have 'sudo' access."
+    },
+    {
+        "number": 46,
+        "question": "What's a programmer's favorite game?",
+        "answer": "'Git'ar Hero."
+    },
+    {
+        "number": 47,
+        "question": "Why did the programmer break up with the database?",
+        "answer": "It had too many 'foreign keys'."
+    },
+    {
+        "number": 48,
+        "question": "What's a programmer's favorite type of coffee?",
+        "answer": "'Java'script."
+    },
+    {
+        "number": 49,
+        "question": "Why did the programmer get kicked out of school?",
+        "answer": "He was caught 'cheating' on a 'test' case."
+    },
+    {
+        "number": 50,
+        "question": "What's a programmer's favorite type of pet?",
+        "answer": "A 'py'thon."
+    },
+    {
+        "number": 51,
+        "question": "Why did the programmer cross the road?",
+        "answer": "To get to the 'other' side."
+    },
+    {
+        "number": 52,
+        "question": "What's a programmer's favorite type of food?",
+        "answer": "'Spam'."
     }
 ]
 
