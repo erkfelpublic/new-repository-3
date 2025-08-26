@@ -695,21 +695,6 @@ jokes = [
         "number": 139,
         "question": "Why did the programmer get a job as a teacher?",
         "answer": "He was good at explaining things."
-    },
-    {
-        "number": 140,
-        "question": "What's a programmer's favorite type of pet?",
-        "answer": "A dog, because it's always loyal."
-    },
-    {
-        "number": 141,
-        "question": "Why did the programmer get a job as a lawyer?",
-        "answer": "He was good at arguing."
-    },
-    {
-        "number": 142,
-        "question": "What's a programmer's favorite type of vacation?",
-        "answer": "A staycation, because he can code from home."
     }
 ]
 
