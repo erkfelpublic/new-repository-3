@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "Why do programmers like to use the command line?",
+        "answer": "Because it's a direct order!"
+    },
+    {
+        "number": 34,
+        "question": "What's a programmer's favorite place to swim?",
+        "answer": "The data lake."
+    },
+    {
+        "number": 35,
+        "question": "Why did the programmer get stuck in the shower?",
+        "answer": "The instructions said: Lather, Rinse, Repeat."
+    },
+    {
+        "number": 36,
+        "question": "What do you call a programmer who is also a bodybuilder?",
+        "answer": "A strong developer."
+    },
+    {
+        "number": 37,
+        "question": "Why was the database administrator so good at his job?",
+        "answer": "He had a lot of table manners."
+    },
+    {
+        "number": 38,
+        "question": "What's a ghost's favorite data type?",
+        "answer": "Boo-lean."
+    },
+    {
+        "number": 39,
+        "question": "Why did the developer break up with the QA tester?",
+        "answer": "They were always finding faults in the relationship."
+    },
+    {
+        "number": 40,
+        "question": "What's a programmer's favorite song?",
+        "answer": "'Hello, World!' by The Code."
+    },
+    {
+        "number": 41,
+        "question": "Why did the programmer bring a ladder to the bar?",
+        "answer": "He heard the drinks were on the house."
+    },
+    {
+        "number": 42,
+        "question": "How do you know a programmer is an extrovert?",
+        "answer": "They'll look at *your* shoes when they're talking to you."
     }
 ]
 
