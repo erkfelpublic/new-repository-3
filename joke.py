@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "What's a programmer's favorite type of clothing?",
+        "answer": "A hoodie, so they can be in their own 'shell'."
+    },
+    {
+        "number": 34,
+        "question": "Why did the programmer get stuck in the shower?",
+        "answer": "The instructions said: Lather, Rinse, Repeat."
+    },
+    {
+        "number": 35,
+        "question": "What do you call a lazy programmer?",
+        "answer": "A screen potato."
+    },
+    {
+        "number": 36,
+        "question": "Why did the scarecrow win an award?",
+        "answer": "Because he was outstanding in his field!"
+    },
+    {
+        "number": 37,
+        "question": "What do you get when you cross a computer and a lifeguard?",
+        "answer": "A screensaver."
+    },
+    {
+        "number": 38,
+        "question": "Why was the database admin always invited to parties?",
+        "answer": "He was great at making connections."
+    },
+    {
+        "number": 39,
+        "question": "What's a pirate's favorite programming language?",
+        "answer": "You'd think it's R, but a pirate's first love is the C."
+    },
+    {
+        "number": 40,
+        "question": "Why do programmers hate the sun?",
+        "answer": "Because it's a source of light, which attracts bugs."
+    },
+    {
+        "number": 41,
+        "question": "How many software engineers does it take to screw in a lightbulb?",
+        "answer": "They can't. It's a hardware problem."
+    },
+    {
+        "number": 42,
+        "question": "Why did the constant break up with the variable?",
+        "answer": "Because he was always changing."
     }
 ]
 
