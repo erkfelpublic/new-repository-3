@@ -1,5 +1,10 @@
+package com.example.helloworld;
+
 /**
  * A simple "Hello, World!" program in Java.
+ *
+ * @author Jules
+ * @since 1.0
  */
 public class HelloWorld {
     /**
