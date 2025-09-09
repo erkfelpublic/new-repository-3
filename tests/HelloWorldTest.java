@@ -4,8 +4,15 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
+/**
+ * Unit test for the HelloWorld class.
+ */
 class HelloWorldTest {
 
+    /**
+     * Tests the main method of the HelloWorld class.
+     * It redirects the standard output, calls the main method, and then asserts that the output is correct.
+     */
     @Test
     void main() {
         // Redirect System.out to capture the output
