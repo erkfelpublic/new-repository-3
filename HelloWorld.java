@@ -1,6 +1,8 @@
 /**
  * The HelloWorld class implements an application that
  * simply prints "Hello, World!" to standard output.
+ * @author Jules
+ * @version 1.1
  */
 class HelloWorld {
     /**
