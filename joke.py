@@ -168,8 +168,8 @@ jokes = [
     },
     {
         "number": 34,
-        "question": "Why did the programmer get stuck in the shower?",
-        "answer": "He was reading the shampoo bottle instructions: \"Lather, rinse, repeat.\""
+        "question": "Why do programmers always take so long in the shower?",
+        "answer": "Because the shampoo bottle says 'Lather, rinse, repeat.'"
     },
     {
         "number": 35,
