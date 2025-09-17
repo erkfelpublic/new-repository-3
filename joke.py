@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "What is a backend developer's favorite country?",
+        "answer": "URL-uguay."
+    },
+    {
+        "number": 34,
+        "question": "Why do front-end developers like horses?",
+        "answer": "Because they are stable."
+    },
+    {
+        "number": 35,
+        "question": "How do you make a programmer angry?",
+        "answer": "git blame."
+    },
+    {
+        "number": 36,
+        "question": "What's a programmer's favorite season?",
+        "answer": "commit season."
+    },
+    {
+        "number": 37,
+        "question": "Why did the programmer get stuck in the shower?",
+        "answer": "He was following the instructions on the shampoo bottle: Lather, rinse, repeat."
+    },
+    {
+        "number": 38,
+        "question": "What do you call a programmer who is also a bodybuilder?",
+        "answer": "A strong type."
+    },
+    {
+        "number": 39,
+        "question": "Why don't programmers like to go outside?",
+        "answer": "The sun has too much glare."
+    },
+    {
+        "number": 40,
+        "question": "Why did the programmer go to the doctor?",
+        "answer": "He had a bad case of the switches."
+    },
+    {
+        "number": 41,
+        "question": "What do you call a programmer who doesn't comment their code?",
+        "answer": "A legacy programmer."
+    },
+    {
+        "number": 42,
+        "question": "Why did the programmer break up with the QA tester?",
+        "answer": "They were always finding faults in their relationship."
     }
 ]
 
