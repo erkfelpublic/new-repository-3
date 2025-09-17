@@ -168,7 +168,58 @@ jokes = [
     },
     {
         "number": 34,
-        "question": "What's a Coder's favorite tea?",
+        "question": "What is a web developer's favorite type of tea?",
+        "answer": "URL Grey."
+    },
+    {
+        "number": 35,
+        "question": "Why do front-end developers hate nature?",
+        "answer": "It's not responsive."
+    },
+    {
+        "number": 36,
+        "question": "What did the server say to the client who was having a bad day?",
+        "answer": "It's not your fault, it's mine."
+    },
+    {
+        "number": 37,
+        "question": "Why was the database administrator so good at his job?",
+        "answer": "He had a lot of tables to work with."
+    },
+    {
+        "number": 38,
+        "question": "Why don't programmers like to play hide and seek?",
+        "answer": "Because they always get found in the <body>."
+    },
+    {
+        "number": 39,
+        "question": "What do you call a programmer who is also a bodybuilder?",
+        "answer": "A bro-grammer."
+    },
+    {
+        "number": 40,
+        "question": "Why did the developer get fired from the keyboard factory?",
+        "answer": "He wasn't putting in enough shifts."
+    },
+    {
+        "number": 41,
+        "question": "Why did the programmer bring a ladder to the bar?",
+        "answer": "He heard the drinks were on the house."
+    },
+    {
+        "number": 42,
+        "question": "What is a developer's favorite horror movie?",
+        "answer": "The Human Cent-ip-ede."
+    }
+    },
+    {
+        "number": 33,
+        "question": "Why did the programmer get stuck in the shower?",
+        "answer": "Because the instructions on the shampoo bottle said: Lather, Rinse, Repeat."
+    },
+    {
+        "number": 34,
+        "question": "What's a web developer's favorite tea?",
         "answer": "URL Grey."
     },
     {
