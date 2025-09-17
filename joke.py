@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "What do you call a lazy programmer?",
+        "answer": "A slacker."
+    },
+    {
+        "number": 34,
+        "question": "Why did the programmer get stuck in the shower?",
+        "answer": "He was reading the shampoo bottle instructions: \"Lather, rinse, repeat.\""
+    },
+    {
+        "number": 35,
+        "question": "What's a pirate's favorite programming language?",
+        "answer": "Rrrrr!"
+    },
+    {
+        "number": 36,
+        "question": "Why did the developer have to go to the doctor?",
+        "answer": "He had a bad case of \"terminal\" illness."
+    },
+    {
+        "number": 37,
+        "question": "How many software engineers does it take to screw in a lightbulb?",
+        "answer": "None. They just change the bulb's state to \"on\"."
+    },
+    {
+        "number": 38,
+        "question": "What did the spider do on the computer?",
+        "answer": "He made a website."
+    },
+    {
+        "number": 39,
+        "question": "Why did the programmer get fired?",
+        "answer": "He was caught sleeping on the job."
+    },
+    {
+        "number": 40,
+        "question": "What's the best way to learn to code?",
+        "answer": "Just keep trying until it works."
+    },
+    {
+        "number": 41,
+        "question": "Why do programmers like to code in the dark?",
+        "answer": "Because they don't like to be seen."
+    },
+    {
+        "number": 42,
+        "question": "What's a programmer's favorite season?",
+        "answer": "Fall, because it's when all the bugs come out."
     }
 ]
 
