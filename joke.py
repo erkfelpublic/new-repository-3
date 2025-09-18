@@ -233,8 +233,8 @@ jokes = [
     },
     {
         "number": 47,
-        "question": "An SEO expert walks into a bar, bars, pub, public house, Irish pub, tavern, bartender, beer, liquor, alcohol...",
-        "answer": ""
+        "question": "Why don't scientists trust atoms?",
+        "answer": "Because they make up everything!"
     },
     {
         "number": 48,
