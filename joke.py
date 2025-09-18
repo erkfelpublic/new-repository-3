@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "What's a programmer's favorite place to swim?",
+        "answer": "The data pool."
+    },
+    {
+        "number": 34,
+        "question": "Why do programmers like to use the terminal?",
+        "answer": "Because it's so commanding."
+    },
+    {
+        "number": 35,
+        "question": "What did the server say to the client who was leaving?",
+        "answer": "Bye, Felicia!"
+    },
+    {
+        "number": 36,
+        "question": "Why did the developer get kicked out of the garden?",
+        "answer": "He was caught stalking the branches."
+    },
+    {
+        "number": 37,
+        "question": "What do you call a programmer who is also a bodybuilder?",
+        "answer": "A strong-typed developer."
+    },
+    {
+        "number": 38,
+        "question": "Why was the database administrator so good at his job?",
+        "answer": "He had a lot of table manners."
+    },
+    {
+        "number": 39,
+        "question": "What's a programmer's favorite song?",
+        "answer": "'Hello, World!' by The Beatles."
+    },
+    {
+        "number": 40,
+        "question": "Why did the programmer bring a ladder to the bar?",
+        "answer": "He heard the drinks were on the house."
+    },
+    {
+        "number": 41,
+        "question": "What's the difference between a software engineer and a large pizza?",
+        "answer": "A large pizza can feed a family of four."
+    },
+    {
+        "number": 42,
+        "question": "How do you get a programmer to stop working?",
+        "answer": "You can't, it's a feature, not a bug."
     }
 ]
 
