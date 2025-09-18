@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "What do you call a lazy programmer?",
+        "answer": "A slacker."
+    },
+    {
+        "number": 34,
+        "question": "Why did the programmer get kicked out of school?",
+        "answer": "He was caught hacking the grading system."
+    },
+    {
+        "number": 35,
+        "question": "What's a programmer's favorite place to go on vacation?",
+        "answer": "The Null-dives."
+    },
+    {
+        "number": 36,
+        "question": "Why do programmers like to use the terminal?",
+        "answer": "Because it's a shell of a good time."
+    },
+    {
+        "number": 37,
+        "question": "What do you call a programmer who is also a bodybuilder?",
+        "answer": "A strong-typed developer."
+    },
+    {
+        "number": 38,
+        "question": "Why did the programmer go to the doctor?",
+        "answer": "He had a bad case of the codes."
+    },
+    {
+        "number": 39,
+        "question": "What's a programmer's favorite type of story?",
+        "answer": "A story with a good hook."
+    },
+    {
+        "number": 40,
+        "question": "Why did the programmer get lost?",
+        "answer": "He took a wrong turn at the function junction."
+    },
+    {
+        "number": 41,
+        "question": "What do you call a programmer who is always on time?",
+        "answer": "A punctual programmer."
+    },
+    {
+        "number": 42,
+        "question": "Why did the programmer break up with the keyboard?",
+        "answer": "It wasn't his type."
     }
 ]
 
