@@ -160,6 +160,106 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "Why did the two Java methods get a divorce?",
+        "answer": "Because they had constant arguments."
+    },
+    {
+        "number": 34,
+        "question": "Why did the edge server go bankrupt?",
+        "answer": "Because it ran out of cache."
+    },
+    {
+        "number": 35,
+        "question": "How many developers does it take to screw in a lightbulb?",
+        "answer": "None. It’s a hardware problem."
+    },
+    {
+        "number": 36,
+        "question": "Why did the private classes break up?",
+        "answer": "Because they never saw each other."
+    },
+    {
+        "number": 37,
+        "question": "Why do Java programmers wear glasses?",
+        "answer": "Because they don’t see sharp."
+    },
+    {
+        "number": 38,
+        "question": "What’s the first step in understanding recursion?",
+        "answer": "To understand recursion, you must first understand recursion."
+    },
+    {
+        "number": 39,
+        "question": "Why did the Java developer quit his job?",
+        "answer": "Because he didn’t get arrays."
+    },
+    {
+        "number": 40,
+        "question": "Why do submarines all run Linux?",
+        "answer": "Because you can’t open Windows under water."
+    },
+    {
+        "number": 41,
+        "question": "What happens when developers ask a silly question?",
+        "answer": "They get a silly ANSI."
+    },
+    {
+        "number": 42,
+        "question": "Why did the Java developer teach his young kids about single quotes?",
+        "answer": "Because they build character."
+    },
+    {
+        "number": 43,
+        "question": "Why was the database developer unhappy at his job?",
+        "answer": "He couldn’t find the right tables."
+    },
+    {
+        "number": 44,
+        "question": "Why was the function feeling blue?",
+        "answer": "It didn’t get called."
+    },
+    {
+        "number": 45,
+        "question": "What do computers and air conditioners have in common?",
+        "answer": "They both become useless when you open windows."
+    },
+    {
+        "number": 46,
+        "question": "What’s a programmer’s favorite movie?",
+        "answer": "Looping."
+    },
+    {
+        "number": 47,
+        "question": "Why don't scientists trust atoms?",
+        "answer": "Because they make up everything!"
+    },
+    {
+        "number": 48,
+        "question": "What do you call a programmer who can't code?",
+        "answer": "A project manager."
+    },
+    {
+        "number": 49,
+        "question": "Why do front-end developers eat lunch alone?",
+        "answer": "Because they don't know how to join tables."
+    },
+    {
+        "number": 50,
+        "question": "What’s the best way to learn a new programming language?",
+        "answer": "By trying to write a “Hello, World!” program in it."
+    },
+    {
+        "number": 51,
+        "question": "Why did the developer get fired?",
+        "answer": "He was too good at debugging, he kept finding his own bugs."
+    },
+    {
+        "number": 52,
+        "question": "What’s a computer’s favorite beat?",
+        "answer": "An algo-rhythm."
     }
 ]
 
