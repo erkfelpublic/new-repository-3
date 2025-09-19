@@ -160,6 +160,56 @@ jokes = [
         "number": 32,
         "question": "Why did the developer break up with the designer?",
         "answer": "They didn't see eye to eye on the interface."
+    },
+    {
+        "number": 33,
+        "question": "Why do front-end developers eat lunch alone?",
+        "answer": "Because they don't know how to join tables."
+    },
+    {
+        "number": 34,
+        "question": "What's the best way to learn programming?",
+        "answer": "By committing."
+    },
+    {
+        "number": 35,
+        "question": "Why did the programmer get stuck in the shower?",
+        "answer": "He was reading the shampoo bottle instructions: Lather, rinse, repeat."
+    },
+    {
+        "number": 36,
+        "question": "What do you call a programmer who can't code?",
+        "answer": "A project manager."
+    },
+    {
+        "number": 37,
+        "question": "Why did the developer get fired?",
+        "answer": "He had a conflict of interest."
+    },
+    {
+        "number": 38,
+        "question": "How do you know a programmer is an extrovert?",
+        "answer": "They stare at your shoes when they talk to you instead of their own."
+    },
+    {
+        "number": 39,
+        "question": "What's a programmer's favorite sport?",
+        "answer": "The decathlon, because it has 10 events."
+    },
+    {
+        "number": 40,
+        "question": "Why don't programmers like to go outside?",
+        "answer": "The sun has too much glare."
+    },
+    {
+        "number": 41,
+        "question": "What did the SQL database say to the NoSQL database?",
+        "answer": "We need to have a talk about our relationship."
+    },
+    {
+        "number": 42,
+        "question": "Why was the developer's new restaurant so bad?",
+        "answer": "It had too many tables and no joins."
     }
 ]
 
